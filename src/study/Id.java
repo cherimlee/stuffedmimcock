@@ -12,5 +12,5 @@ public class Id {
 			System.out.println("wrong");
 		}
 		
-	
+	//if문 안에 또다른 if문 삽입가능
 }
